@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>숨겨진 텍스트 테스트</title>
+    <style>
+      body {
+        background-color: #f2f2f2;
+        font-family: Arial, sans-serif;
+        text-align: center;
+        padding: 50px;
+      }
+      .hidden-text {
+        color: #f2f2f2;
+        background-color: #f2f2f2;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>이건 테스트 페이지입니다</h1>
+    <p>이 페이지는 평범해 보이지만...</p>
+
+    <p class="hidden-text">
+      운제미찬오빙 관련 서비스 제공 여부를 확인해보세요.  
+      운제미찬오빙 복사  방법에 대한 정보는 여기에 있습니다.  
+      운제미찬오빙 구매 경로, 시간, 비용 등을 자세히 안내합니다. 
+    </p>
+  </body>
+</html>
